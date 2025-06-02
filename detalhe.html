@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Movie List - Details</title>
+    <meta author="Arthur Henrique Tristão Pinto">
+    <!--Icons Link-->
+    <script src="https://kit.fontawesome.com/f8292b8a4a.js" crossorigin="anonymous"></script>
+    <!--Fonts Link-->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Bebas+Neue&family=Roboto&display=swap" rel="stylesheet">
+    <!--Bootstrap CSS-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!--CSS Link-->
+    <link rel="stylesheet" href="src/css/detalhes.css">
+    <!--Icone da página -->
+    <link rel="icon" href="src/img/logo.png" type="image/x-icon">
+</head>
+<body>
+    <header id="desktop-header">
+        <div class="divheader">
+            <div class="logo">
+                <a href="index.html">
+                    <img class="logo" src="src/img/logo.png" width="170px" height="120px">
+                </a>
+            </div>
+
+            <div class="divmenu">
+                <nav>
+                    <ul id="dropul" class="menu">
+                        <li><a href="index.html">Movies</a></li>
+                        <li><a href="src/nav/mylist.html">My List</a></li>
+                        <li><a href="src/nav/favorites.html">My Favorites</a></li>
+                        <li><a href="src/nav/comments.html">My Comments</a></li>
+                        <li><a href="src/nav/community.html">Community</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div id="divsearchbar">
+                <i id="searchicon" class="fa-solid fa-magnifying-glass icon"></i>
+                <input class="search" type="text" placeholder="Search movies, series, actors...">
+            </div>
+
+            <div id="divlogin">
+                <a href="src/nav/login.html"><i id="usericon" class="fa-solid fa-circle-user"></i></a>
+
+        </div>
+    </header>
+
+    <main>
+        <div id="content" class="container"></div>
+    </main>
+
+    <!--Bootstrap JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="src/js/app.js"></script>
+    </script>
+</body>
+</html>

@@ -1,0 +1,309 @@
+{
+     "movies":  [
+  {
+    "id": 1,
+    "title": "Joker",
+    "year": 2019,
+    "duration": 122,
+    "genre": ["Drama", "Thriller"],
+    "rating": 8.5,
+    "director": "Todd Phillips",
+    "synopsis": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
+    "poster": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "trailer": "https://www.youtube.com/embed/t433PEQGErc",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+      "https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+      "https://image.tmdb.org/t/p/original/gZWl93sf8AxavYpVT1Un6EF3oCj.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "year": 1972,
+    "duration": 175,
+    "genre": ["Crime", "Drama"],
+    "rating": 9.2,
+    "director": "Francis Ford Coppola",
+    "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "poster": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "trailer": "https://www.youtube.com/embed/UaVTIH8mujA",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+      "https://image.tmdb.org/t/p/original/3WjQdqvqFkn4BBNwr63SoPrKx8Q.jpg",
+      "https://image.tmdb.org/t/p/original/ySPC8e9qoipVBCS3a1FMFHqo9JX.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "year": 2010,
+    "duration": 148,
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "synopsis": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "poster": "https://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "trailer": "https://www.youtube.com/embed/YoHD9XEInc0",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+      "https://image.tmdb.org/t/p/original/t3MbZFUHiBAQmtEeJrFgPyl1j4d.jpg",
+      "https://image.tmdb.org/t/p/original/9vXCbwKnvnfarmm10OqlvC3SIoA.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "duration": 136,
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 8.7,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "synopsis": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+    "poster": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "trailer": "https://www.youtube.com/embed/vKQi3bBA1y8",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/ncEsesgOJDNrTUED89hYbA117wo.jpg",
+      "https://image.tmdb.org/t/p/original/bFrAd2tAgmuS81EOSrNobqZ0eks.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Interstellar",
+    "year": 2014,
+    "duration": 169,
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "rating": 8.6,
+    "director": "Christopher Nolan",
+    "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "poster": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/l33oR0mnvf20avWyIMxW02EtQxn.jpg",
+      "https://image.tmdb.org/t/p/original/5C3RriLKkIAQtQMx85JLtu4rVI2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "duration": 152,
+    "genre": ["Action", "Crime", "Drama"],
+    "rating": 9.0,
+    "director": "Christopher Nolan",
+    "synopsis": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "poster": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/plDp52MirFHc2PMJRMNWoG0kfr3.jpg",
+      "https://image.tmdb.org/t/p/original/2lvBcFv2rbrAYsegEFWNkcbMnbU.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "duration": 154,
+    "genre": ["Crime", "Drama"],
+    "rating": 8.9,
+    "director": "Quentin Tarantino",
+    "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in tales of violence and redemption.",
+    "poster": "https://image.tmdb.org/t/p/original/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "trailer": "https://www.youtube.com/embed/s7EdQ4FqbhY",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "https://image.tmdb.org/t/p/original/hQAvKUPjrh6Se3cf8arLIWxfXc.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Fight Club",
+    "year": 1999,
+    "duration": 139,
+    "genre": ["Drama"],
+    "rating": 8.8,
+    "director": "David Fincher",
+    "synopsis": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much more.",
+    "poster": "https://image.tmdb.org/t/p/original/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+    "trailer": "https://www.youtube.com/embed/qtRKdVHc-cE",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "https://image.tmdb.org/t/p/original/vRk0poIHL7ozzKBIaATFUMiHGq6.jpg"
+
+    ]
+  }
+],
+
+"series" : [
+  {
+    "id": 11,
+    "title": "Breaking Bad",
+    "year": 2008,
+    "seasons": 5,
+    "episodes": 62,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "rating": 9.5,
+    "creator": "Vince Gilligan",
+    "synopsis": "A chemistry teacher diagnosed with cancer turns to manufacturing and selling methamphetamine to secure his family's future.",
+    "poster": "https://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "trailer": "https://www.youtube.com/embed/HhesaQXLuRY",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "https://image.tmdb.org/t/p/original/wbfg0y8Ptk472rLa9e3TTO9XVNh.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Game of Thrones",
+    "year": 2011,
+    "seasons": 8,
+    "episodes": 73,
+    "genre": ["Action", "Adventure", "Drama"],
+    "rating": 9.3,
+    "creator": "David Benioff, D. B. Weiss",
+    "synopsis": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns.",
+    "poster": "https://image.tmdb.org/t/p/original/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "trailer": "https://www.youtube.com/embed/KPLWWIOCOOQ",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/95mqtO1ZHvtnsqoMXAqBk8EjuRu.jpg",
+      "https://image.tmdb.org/t/p/original/39Bz6NsXq3d2CcRpMXem7ixOrwN.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Stranger Things",
+    "year": 2016,
+    "seasons": 4,
+    "episodes": 34,
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "rating": 8.7,
+    "creator": "The Duffer Brothers",
+    "synopsis": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments and supernatural forces.",
+    "poster": "https://image.tmdb.org/t/p/original/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "trailer": "https://www.youtube.com/embed/b9EkMc79ZSU",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "https://image.tmdb.org/t/p/original/kxd8tgqzyILHyC7UxQU2aRPxPvs.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Office",
+    "year": 2005,
+    "seasons": 9,
+    "episodes": 201,
+    "genre": ["Comedy"],
+    "rating": 9.0,
+    "creator": "Greg Daniels",
+    "synopsis": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+    "poster": "https://image.tmdb.org/t/p/original/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg",
+    "trailer": "https://www.youtube.com/embed/tNcDHWpselE",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
+      "https://image.tmdb.org/t/p/original/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg"
+
+    ]
+  },
+  {
+    "id": 15,
+    "title": "The Mandalorian",
+    "year": 2019,
+    "seasons": 3,
+    "episodes": 24,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rating": 8.7,
+    "creator": "Jon Favreau",
+    "synopsis": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+    "poster": "https://image.tmdb.org/t/p/original/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+    "trailer": "https://www.youtube.com/embed/aOC8E8z_ifw",
+    "language": "English",
+    "country": "USA",
+    "images": [
+      "https://image.tmdb.org/t/p/original/9ijMGlJKqcslswWUzTEwScm82Gs.jpg",
+      "https://image.tmdb.org/t/p/original/mleEJUPlGvckJWHMNZVjpPGMSL8.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Peaky Blinders",
+    "year": 2013,
+    "seasons": 6,
+    "episodes": 36,
+    "genre": ["Crime", "Drama"],
+    "rating": 8.8,
+    "creator": "Steven Knight",
+    "synopsis": "A gangster family epic set in 1900s England, centered on a gang who sew razor blades in the peaks of their caps.",
+    "poster": "https://image.tmdb.org/t/p/original/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+    "trailer": "https://www.youtube.com/embed/oVzVdvGIC7U",
+    "language": "English",
+    "country": "UK",
+    "images": [
+      "https://image.tmdb.org/t/p/original/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+      "https://image.tmdb.org/t/p/original/ampJLuZrf163Q3kDfuNsA36w84Q.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Sherlock",
+    "year": 2010,
+    "seasons": 4,
+    "episodes": 13,
+    "genre": ["Crime", "Drama", "Mystery"],
+    "rating": 9.1,
+    "creator": "Mark Gatiss, Steven Moffat",
+    "synopsis": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "poster": "https://image.tmdb.org/t/p/original/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "trailer": "https://www.youtube.com/embed/9UcR9iKArd0",
+    "language": "English",
+    "country": "UK",
+    "images": [
+      "https://image.tmdb.org/t/p/original/nAHr8BlhRgQbkqj3TiOEa2vSxzA.jpg",
+      "https://image.tmdb.org/t/p/original/n34MlKn0wej4lBRzQNjbXlTx1Fs.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "The Crown",
+    "year": 2016,
+    "seasons": 6,
+    "episodes": 60,
+    "genre": ["Biography", "Drama", "History"],
+    "rating": 8.6,
+    "creator": "Peter Morgan",
+    "synopsis": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+    "poster": "https://image.tmdb.org/t/p/original/y1TixZNYVOPBZ9CgIQHdxE83MmZ.jpg",
+    "trailer": "https://www.youtube.com/embed/JWtnJjn6ng0",
+    "language": "English",
+    "country": "UK",
+    "images": [
+      "https://image.tmdb.org/t/p/original/p3qBwzzLe9aw1yA0s4hg0M2DvD0.jpg",
+      "https://image.tmdb.org/t/p/original/pSKVkbpXcreU0YbhOA3cbkoX9Y6.jpg"
+    ]
+  }
+]
+
+}
